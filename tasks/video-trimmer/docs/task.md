@@ -1,0 +1,6 @@
+# video-trimmer
+
+Status: implemented
+Implementor: haoze
+
+This task was marked implemented in Notion and synced from the task database.

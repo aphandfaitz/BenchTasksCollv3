@@ -1,0 +1,2 @@
+Groundtruth workspace for video-trimmer.
+Implementor: haoze
